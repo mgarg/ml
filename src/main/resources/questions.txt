@@ -1,0 +1,4 @@
+1. what is the difference between double and Double??
+2. learn to use a debugger
+3. Adding a library or a jar file..
+4. Search for java counterpart of PIL
